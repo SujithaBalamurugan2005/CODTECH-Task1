@@ -1,0 +1,101 @@
+ID,Age,Gender,Annual_Income (k$),Spending_Score (1-100),City,Product_Purchased
+1,56,Male,98,51,Los Angeles,12
+2,69,Male,44,54,New York,13
+3,46,Male,89,8,Houston,12
+4,32,Male,142,27,Los Angeles,14
+5,60,Male,106,27,Chicago,2
+6,25,Female,143,98,Houston,19
+7,38,Male,135,21,Phoenix,18
+8,56,Female,41,30,New York,3
+9,36,Female,135,97,Phoenix,17
+10,40,Female,130,28,Houston,8
+11,28,Male,17,64,Houston,10
+12,28,Male,117,97,Houston,2
+13,41,Male,76,69,Phoenix,19
+14,53,Male,65,61,Houston,9
+15,57,Female,73,48,Phoenix,7
+16,41,Male,132,19,Houston,4
+17,20,Male,110,4,Chicago,18
+18,39,Male,127,35,Houston,13
+19,19,Male,76,64,Phoenix,11
+20,41,Male,66,49,Los Angeles,4
+21,61,Female,26,17,Houston,4
+22,47,Male,53,44,Los Angeles,10
+23,55,Female,144,92,Chicago,5
+24,19,Male,145,30,New York,9
+25,38,Female,127,93,Chicago,3
+26,50,Male,115,46,Houston,17
+27,29,Male,127,6,Los Angeles,3
+28,39,Female,95,99,Los Angeles,16
+29,61,Female,127,37,Phoenix,4
+30,42,Female,16,24,Los Angeles,18
+31,66,Male,144,93,Phoenix,17
+32,44,Female,68,46,New York,7
+33,59,Male,101,53,Houston,5
+34,45,Male,143,95,Phoenix,12
+35,33,Female,140,99,New York,17
+36,32,Female,144,60,Los Angeles,13
+37,64,Male,67,97,Los Angeles,3
+38,68,Male,82,63,New York,9
+39,61,Female,137,85,Los Angeles,17
+40,69,Female,52,32,New York,17
+41,20,Female,38,87,Phoenix,16
+42,54,Male,83,33,Phoenix,13
+43,68,Male,130,67,New York,19
+44,24,Male,112,18,Phoenix,17
+45,38,Male,111,25,Phoenix,4
+46,26,Male,138,95,Phoenix,12
+47,56,Male,84,54,Chicago,9
+48,35,Female,107,58,Houston,19
+49,21,Male,17,67,Los Angeles,12
+50,42,Male,104,46,Chicago,9
+51,31,Male,110,24,Phoenix,7
+52,67,Female,66,32,New York,14
+53,26,Male,142,47,Phoenix,19
+54,43,Male,53,86,Houston,15
+55,19,Female,96,23,Phoenix,16
+56,37,Male,118,66,New York,5
+57,45,Male,143,27,Houston,3
+58,64,Male,25,2,Phoenix,12
+59,24,Male,56,90,Houston,4
+60,61,Male,113,17,Los Angeles,16
+61,25,Female,21,33,Los Angeles,7
+62,64,Female,104,9,Phoenix,13
+63,52,Female,126,43,Houston,10
+64,31,Male,74,48,New York,7
+65,34,Male,127,39,Phoenix,14
+66,53,Male,16,93,Los Angeles,5
+67,67,Female,143,42,Los Angeles,3
+68,57,Male,62,26,Phoenix,11
+69,21,Male,51,99,Houston,11
+70,19,Female,23,50,Los Angeles,18
+71,23,Male,113,25,Houston,15
+72,59,Female,62,24,Los Angeles,12
+73,21,Female,145,13,Los Angeles,9
+74,46,Female,68,60,Chicago,10
+75,35,Male,134,7,Los Angeles,12
+76,43,Male,130,57,New York,17
+77,61,Male,89,36,Phoenix,6
+78,51,Male,127,45,Phoenix,7
+79,27,Male,118,20,Houston,14
+80,53,Male,98,65,Los Angeles,13
+81,31,Male,126,8,New York,8
+82,48,Female,113,16,Houston,10
+83,65,Male,107,14,Chicago,9
+84,32,Female,142,76,Houston,18
+85,25,Male,124,87,Houston,2
+86,31,Male,96,15,Los Angeles,5
+87,40,Male,68,92,Chicago,5
+88,57,Female,82,98,Houston,6
+89,38,Female,47,66,New York,19
+90,33,Female,35,32,New York,8
+91,62,Female,62,87,Phoenix,16
+92,35,Male,142,63,Chicago,13
+93,64,Female,149,86,Chicago,1
+94,41,Male,142,51,Phoenix,17
+95,43,Male,47,25,Houston,7
+96,42,Female,129,58,Chicago,13
+97,62,Female,133,63,New York,4
+98,58,Female,36,62,New York,4
+99,46,Female,52,22,Los Angeles,6
+100,32,Female,123,58,Chicago,19
